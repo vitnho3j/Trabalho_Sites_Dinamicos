@@ -1,0 +1,14 @@
+POST http://localhost:8080/venda
+Content-Type: application/json
+//REALIZA A VENDA DE UM CURSO
+
+{
+  "id": 1,
+  "data": "28/09/2021",
+  "valor": 50.0,
+  "comprador": 2,
+  "vendedor": 1,
+  "curso": 1
+}
+
+###

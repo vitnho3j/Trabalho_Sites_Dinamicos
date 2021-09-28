@@ -1,0 +1,13 @@
+POST http://localhost:8080/curso
+Content-Type: application/json
+//CRIA UM NOVO CURSO.
+
+{
+  "id": 4,
+  "nome": "Curso de Culinária",
+  "categoria": "Culinária",
+  "valor": 30.0,
+  "id_creator": 3
+}
+
+###

@@ -1,0 +1,14 @@
+GET http://localhost:8080/user/vendas/1
+Accept: application/json
+//MOSTRA TODAS AS VENDAS DE UM USUÁRIO
+
+###
+GET http://localhost:8080/user/compras/3
+Accept: application/json
+//MOSTRA TODAS AS COMPRAS DE UM USUÁRIO
+
+###
+GET http://localhost:8080/user/1
+Accept: application/json
+//MOSTRA TODOS OS CURSOS CRIADOS POR UM USUÁRIO.
+###
